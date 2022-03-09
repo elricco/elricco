@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![elricco github stats](https://github-readme-stats.vercel.app/api?username=elricco&count_private=true&show_icons=true&theme=radical)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elricco&theme=radical&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **elricco/elricco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
